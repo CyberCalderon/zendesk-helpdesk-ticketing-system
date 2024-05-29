@@ -26,13 +26,13 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 Include the initial setup steps here.
 
 ## Support Email Setup
-![Support Email Setup](./assets/images/Support%20Email.png)
 1. Log in to your Zendesk account.
 2. Click on the settings cog on the left taskbar.
 3. Select **Go to Admin Center**.
 4. Under **Channels**, select **Email**.
 5. Add your support email address.
 6. Verify the email address and complete the setup.
+![Support Email Setup](assets/images/Support%20Email.png)
 
 ## Business Hours and SLA
 ![Business Hours Setup](assets/images/business_hours_setup.png)
