@@ -26,7 +26,7 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 Include the initial setup steps here.
 
 ## Support Email Setup
-![Support Email Setup](assets/images/support_email_setup.png)
+![Support Email Setup](./assets/images/Support%20Email.png)
 1. Log in to your Zendesk account.
 2. Click on the settings cog on the left taskbar.
 3. Select **Go to Admin Center**.
