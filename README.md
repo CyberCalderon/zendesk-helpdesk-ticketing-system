@@ -35,72 +35,72 @@ Include the initial setup steps here.
 ![Support Email Setup](assets/images/Support%20Email.png)
 
 ## Business Hours and SLA
-![Business Hours Setup](assets/images/business_hours_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Objects and rules**, expand the **Business rules** category.
 4. Under **Business rules**, select **Schedules**.
 5. Set up your business hours and define SLAs based on your support policies.
+![Business Hours Setup](assets/images/Schedules.png)
 
 ## Custom Ticket Fields
-![Custom Ticket Fields](assets/images/custom_ticket_fields.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Objects and rules**, expand the **Tickets** category.
 4. Under **Tickets**, select **Fields**.
 5. Create custom fields that suit your helpdesk needs.
+![Custom Ticket Fields](assets/images/Fields.png)
 
 ## Ticket Forms
-![Ticket Forms Setup](assets/images/ticket_forms_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Objects and rules**, expand the **Tickets** category.
 4. Under **Tickets**, select **Forms**.
 5. Create forms tailored to different types of issues.
+![Ticket Forms Setup](assets/images/Forms.png)
 
 ## Ticket Views
-![Ticket Views Setup](assets/images/ticket_views_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Workspaces**, expand the **Agent tools** category.
 4. Under **Agent tools**, select **Views**.
 5. Configure views to organize and prioritize tickets.
+![Ticket Views Setup](assets/images/Views.png)
 
 ## Macros
-![Macros Setup](assets/images/macros_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Workspaces**, expand the **Agent tools** category.
 4. Under **Agent tools**, select **Macros**.
 5. Create macros for common responses and actions.
+![Macros Setup](assets/images/Macros.png)
 
 ## Triggers
-![Triggers Setup](assets/images/triggers_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Objects and rules**, expand the **Business rules** category.
 4. Under **Business rules**, select **Triggers**.
 5. Set up triggers to automate actions based on ticket conditions.
+![Triggers Setup](assets/images/Triggers.png)
 
 ## Automations
-![Automations Setup](assets/images/automations_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Objects and rules**, expand the **Business rules** category.
 4. Under **Business rules**, select **Automations**.
 5. Configure automations to streamline ticket workflows.
+![Automations Setup](assets/images/Automations.png)
 
 ## Customer Portal
-![Customer Portal Setup](assets/images/customer_portal_setup.png)
 1. Click on the settings cog on the left taskbar.
 2. Select **Go to Admin Center**.
 3. Under **Channels**, select **Help Center**.
 4. Customize the portal and add FAQs and knowledge base articles.
+![Customer Portal Setup](assets/images/Knowledge.png)
 
 ## Reporting and Analytics
-![Reporting and Analytics](assets/images/reporting_analytics.png)
 1. On the main overview outside of the Admin Center, click on the **Reporting** tab on the left taskbar.
 2. Generate and customize reports to track KPIs.
+![Reporting and Analytics](assets/images/Reporting.png)
 
 ## Common Issues and Resolutions
 ### Password Reset
@@ -120,7 +120,6 @@ Include the initial setup steps here.
 
 ## Project Reflection
 This project provided hands-on experience with setting up and managing a helpdesk ticketing system using Zendesk. Key takeaways include understanding the configuration of various Zendesk components and documenting effective troubleshooting steps for common issues.
-
 
 ## How to Contribute
 Guidelines for contributing to the project. Please fork the repository, create a new branch for your changes, and submit a pull request.
