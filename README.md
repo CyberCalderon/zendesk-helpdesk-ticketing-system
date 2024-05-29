@@ -19,7 +19,6 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 - [Password Reset](#password-reset)
 - [Software Installation](#software-installation)
 - [Project Reflection](#project-reflection)
-- [Repository Structure](#repository-structure)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -104,8 +103,27 @@ Include the initial setup steps here.
 2. Generate and customize reports to track KPIs.
 
 ## Common Issues and Resolutions
-See [Common Issues and Resolutions](assets/docs/common_issues.md).
+### Password Reset
+![Password Reset](assets/images/password_reset.png)
+1. Verify the user's identity.
+2. Guide the user to the password reset page.
+3. Instruct the user to enter their email address and follow the prompts.
+4. If the user does not receive the reset email, check the spam/junk folder.
+5. Ensure that the user's account is active and not locked.
+
+### Software Installation
+![Software Installation](assets/images/software_installation.png)
+1. Verify the software requirements and compatibility.
+2. Provide the user with installation files or download links.
+3. Guide the user through the installation process.
+4. Troubleshoot any errors during installation by referring to common error messages and solutions.
 
 ## Project Reflection
-See [Project Reflection](assets/docs/project_reflection.md).
+This project provided hands-on experience with setting up and managing a helpdesk ticketing system using Zendesk. Key takeaways include understanding the configuration of various Zendesk components and documenting effective troubleshooting steps for common issues.
 
+
+## How to Contribute
+Guidelines for contributing to the project. Please fork the repository, create a new branch for your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
