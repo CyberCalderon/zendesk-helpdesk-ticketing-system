@@ -35,7 +35,7 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 4. Add your support email address.
 5. Verify the email address and complete the setup.
 
-![Support Email Setup](Ticketing-System-Setup/screenshots/support_email_setup.png)
+![Support Email Setup](assets/images/Screenshot%202024-05-28%20163756.png)
 
 ### Business Hours and SLA
 1. Navigate to the Admin Center.
