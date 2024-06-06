@@ -1,4 +1,4 @@
-# Zendesk Helpdesk Ticketing System Project
+# Zendesk Helpdesk Ticketing System Setup
 
 ## Project Overview
 This project demonstrates the setup and configuration of a Zendesk helpdesk ticketing system. It includes detailed steps for setting up various components of Zendesk, such as support email, business hours, custom ticket fields, forms, views, macros, triggers, automations, and the customer portal. Additionally, this project provides documentation of common helpdesk issues and their resolutions.
