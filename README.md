@@ -104,7 +104,6 @@ Include the initial setup steps here.
 
 ## Common Issues and Resolutions
 ### Password Reset
-![Password Reset](assets/images/password_reset.png)
 1. Verify the user's identity.
 2. Guide the user to the password reset page.
 3. Instruct the user to enter their email address and follow the prompts.
@@ -112,7 +111,6 @@ Include the initial setup steps here.
 5. Ensure that the user's account is active and not locked.
 
 ### Software Installation
-![Software Installation](assets/images/software_installation.png)
 1. Verify the software requirements and compatibility.
 2. Provide the user with installation files or download links.
 3. Guide the user through the installation process.
