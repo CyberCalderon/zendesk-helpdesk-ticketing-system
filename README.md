@@ -16,10 +16,6 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 - [Customer Portal](#customer-portal)
 - [Reporting and Analytics](#reporting-and-analytics)
 - [Common Issues and Resolutions](#common-issues-and-resolutions)
-- [Password Reset](#password-reset)
-- [Software Installation](#software-installation)
-- [Project Reflection](#project-reflection)
-- [How to Contribute](#how-to-contribute)
 - [License](#license)
 
 ## Project Setup
