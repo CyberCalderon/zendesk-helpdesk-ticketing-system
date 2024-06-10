@@ -4,7 +4,6 @@
 This project demonstrates the setup and configuration of a Zendesk helpdesk ticketing system. It includes detailed steps for setting up various components of Zendesk, such as support email, business hours, custom ticket fields, forms, views, macros, triggers, automations, and the customer portal. Additionally, this project provides documentation of common helpdesk issues and their resolutions.
 
 ## Table of Contents
-- [Project Setup](#project-setup)
 - [Support Email Setup](#support-email-setup)
 - [Business Hours and SLA](#business-hours-and-sla)
 - [Custom Ticket Fields](#custom-ticket-fields)
@@ -17,9 +16,6 @@ This project demonstrates the setup and configuration of a Zendesk helpdesk tick
 - [Reporting and Analytics](#reporting-and-analytics)
 - [Common Issues and Resolutions](#common-issues-and-resolutions)
 - [License](#license)
-
-## Project Setup
-Include the initial setup steps here.
 
 ## Support Email Setup
 1. Log in to your Zendesk account.
