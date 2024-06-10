@@ -104,7 +104,8 @@ Include the initial setup steps here.
 
 ## Common Issues and Resolutions
 For common issues and resolutions, please refer to our dedicated repository:
-[Common Issues Repository](https://github.com/your-organization/common-issues)
+[Common Issues Repository](Common Issues Repository.md)
+)
 
 This repository contains comprehensive documentation on troubleshooting common problems encountered. It includes detailed guides, step-by-step instructions, and solutions to common issues such as:
 
